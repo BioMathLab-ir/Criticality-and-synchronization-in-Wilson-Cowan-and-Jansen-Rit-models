@@ -1,6 +1,6 @@
 # Criticality-and-synchronization-in-Wilson-Cowan-and-Jansen-Rit-models
 
-##Project Description:
+## Project Description:
 
 We compared the dynamics of two seminal neural mass models,
 representing the integration of many neurons within a population. We investigated phase
@@ -9,7 +9,7 @@ models. The two models were utilized in the same structural network representing
 topology. We observed two profound phenomena in brain activity. First, the global
 synchronicity of these networks was calculated by considering the Kuramoto order parameter.
 
-##Abstract:
+## Abstract:
 
 Synchronization is a phenomenon observed in neuronal networks involved in
 diverse brain activities. Neural mass models such as Wilson-Cowan (WC) and Jansen-Rit (JR)
@@ -26,6 +26,6 @@ power-law behavior. Our study further investigated the global synchronization ph
 that is known to exist in pathological brain states, such as seizure. JR model showed global
 synchronization, while WC model seemed to be more suitable in producing partially
 synchronized patterns.
-##Authors:
+## Authors:
 
 Sheida Kazemi, AmirAli Farokhniaee, Yousef Jamali
